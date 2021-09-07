@@ -1,6 +1,6 @@
 # pypong
 pypong is my first attempt at writing a pong game in python.
-pypong uses sys, pygame, random, and time imports.
+pypong uses pygame, random, and time imports.
 Base code is built off of the realpython.com pygame tutorial. Some code lines have not been changed.
 
 ###Controls
