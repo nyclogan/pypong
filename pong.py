@@ -362,4 +362,3 @@ if WINNER:
                 run = False    
     
 pygame.quit()
-
